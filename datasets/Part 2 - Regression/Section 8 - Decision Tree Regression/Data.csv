@@ -1,0 +1,11 @@
+Function calls,N.Statements,N. Iterations,N. If conditions, Parallelization
+Yes,44,72000,5,Yes
+No,27,48000,6,Yes
+No,30,54000,7,Yes
+No,38,61000,25,Yes
+Yes,40,,2,Yes
+Yes,35,58000,3,Yes
+Yes,,52000,1,No
+No,48,79000,,Yes
+Yes,50,83000,8,No
+No,37,67000,2,Yes
